@@ -105,6 +105,7 @@ tools:
   owner: iuc
   revisions:
   - 68a116f469db
+  - 84819580b8a5
   - bc0cc7bfbfe9
   - c05afbeaf42d
   - d2df79922531
@@ -139,6 +140,7 @@ tools:
   - 3a0efe14891f
   - 541082d03bef
   - 57934e90e27c
+  - 8fca6e1eac98
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_split
