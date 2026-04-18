@@ -6,6 +6,7 @@ tools:
 - name: multimodal_learner
   owner: goeckslab
   revisions:
+  - 00ca2dfe9254
   - 25bb80df7c0c
   - 3719606b94af
   - 375c36923da1
@@ -41,6 +42,7 @@ tools:
   - 0afd970bd8ae
   - 11fdac5affb3
   - 15707141e7da
+  - 169276b820cc
   - 209b663a4f62
   - 49f73a3c12f3
   - 4bd75b45a7a1
@@ -180,6 +182,7 @@ tools:
   revisions:
   - 07843f917990
   - 30d21a6041f6
+  - 3881482e568e
   - 5a125d1ac9b9
   - 5ae00d2908f2
   - 867caa39eaa4
@@ -215,6 +218,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 61461e52c923
   - 6d23883e0b94
   - 73d2ef652879
   - 80852884053f
@@ -290,6 +294,7 @@ tools:
   - 7614281473da
   - b07416ec8d16
   - c84ab9ca4e5c
+  - df87a7702f97
   - e79200975daf
   - f24deab884d0
   tool_panel_section_id: machine_learning
@@ -318,6 +323,7 @@ tools:
   - 2d7c60aa6c62
   - 73e7f1c76ece
   - 7dd3fb35904f
+  - 86d4c2b66e16
   - 8eed73e8e04d
   - 981a0328d6bb
   - ad7e0b4291ee
@@ -386,6 +392,7 @@ tools:
   - 55703205546f
   - 6ffedbe712c0
   - 80ca74b1cb36
+  - a0061a087409
   - adc6137e7c73
   - ae69f6918abe
   - c8547d3993c0
@@ -420,6 +427,7 @@ tools:
   - 279cdd8d39e2
   - 2d032cff49eb
   - 4335cec181ba
+  - 4ee087eeda62
   - 6adef419e041
   - 7696d389675c
   - 87cb9cb44d1f
@@ -477,6 +485,7 @@ tools:
   - ce2fd1edbc6e
   - e10ffa9e0b90
   - e8639f65c883
+  - fc0f9ba14aaa
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_fitted_model_eval
@@ -487,6 +496,7 @@ tools:
   - 22e73afd5206
   - 4a1cd790e323
   - 61fb99c55558
+  - 9a3cb21a3661
   - bfc44324a773
   - c2a7717d96ce
   - c2e2aa55dd5c
@@ -504,6 +514,7 @@ tools:
   - 612ca26c197d
   - 61634a87efc7
   - 6b59e9b96071
+  - 89f11e2b0673
   - a4f18bbb4eca
   - caeb57858702
   - f93f0cdbaf18
@@ -514,6 +525,7 @@ tools:
   revisions:
   - 05143043ca13
   - 1588f9076e32
+  - 21730620a849
   - 222c02df5d55
   - 4a229a7ad638
   - 5f9c0e99016f
