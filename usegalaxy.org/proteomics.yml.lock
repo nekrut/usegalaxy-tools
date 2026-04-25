@@ -37,6 +37,7 @@ tools:
 - name: maxquant
   owner: galaxyp
   revisions:
+  - 022e886e8f94
   - 163452d1e255
   - 1f39c833f65f
   - 4d17fcdeb8ff
@@ -213,6 +214,7 @@ tools:
 - name: kstar_calculate
   owner: naegle_lab
   revisions:
+  - 30d12038a81e
   - 67dd6d0145a2
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
