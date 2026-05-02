@@ -179,6 +179,7 @@ tools:
   owner: bgruening
   revisions:
   - 07843f917990
+  - 0a43c856e1d8
   - 30d21a6041f6
   - 5a125d1ac9b9
   - 5ae00d2908f2
@@ -201,6 +202,7 @@ tools:
   - 5d5d9cc554f9
   - 61e76fb65daf
   - 65f18ab91132
+  - 7e5631773cea
   - 805194c3cdfb
   - 887e0aaa482e
   - 9dc28a4b6ca8
@@ -351,6 +353,7 @@ tools:
   - 4483b84310ec
   - 5276bdb49315
   - 5773e98921fc
+  - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 96bb4c49e30e
@@ -375,6 +378,7 @@ tools:
   - 826c3e68e7a9
   - a5c2ce4ea328
   - add3c3a7c2b4
+  - dde13d557dc4
   - eb9da067ab26
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -506,6 +510,7 @@ tools:
   - 6b59e9b96071
   - a4f18bbb4eca
   - caeb57858702
+  - f86c0419af43
   - f93f0cdbaf18
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
