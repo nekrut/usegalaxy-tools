@@ -210,6 +210,7 @@ tools:
   - 099a77735731
   - 0e07bc110728
   - 4f85da43b40c
+  - 8994fea8fbde
   - b095c69eab5b
   - b0f07e3d6f07
   - d129c3d0e920
@@ -533,6 +534,7 @@ tools:
 - name: amrfinderplus
   owner: iuc
   revisions:
+  - 573cfe217474
   - 7844dbe4f8e2
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
