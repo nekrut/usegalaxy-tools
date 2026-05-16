@@ -118,6 +118,7 @@ tools:
 - name: spot_detection_2d
   owner: imgteam
   revisions:
+  - 1a03fcd4fa80
   - 73efacdaf71a
   - d78372040976
   - e8c9e104e109
@@ -397,6 +398,7 @@ tools:
 - name: image_info
   owner: imgteam
   revisions:
+  - e28851b24032
   - f8b4eada923c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
