@@ -118,6 +118,7 @@ tools:
 - name: spot_detection_2d
   owner: imgteam
   revisions:
+  - 1a03fcd4fa80
   - 73efacdaf71a
   - d78372040976
   - e8c9e104e109
@@ -476,6 +477,7 @@ tools:
   owner: imgteam
   revisions:
   - 711adedc5bb8
+  - a13240a1a6d3
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_watershed_binary
@@ -488,6 +490,7 @@ tools:
   owner: imgteam
   revisions:
   - 69e951528a0b
+  - aed895206786
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_smooth
@@ -553,6 +556,7 @@ tools:
 - name: imagej2_bunwarpj_elastic_transform
   owner: imgteam
   revisions:
+  - 73b16a95813a
   - f72f8e6787cd
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -560,6 +564,7 @@ tools:
   owner: imgteam
   revisions:
   - c4774c1a35ea
+  - c853e60002db
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: iscc_sum
