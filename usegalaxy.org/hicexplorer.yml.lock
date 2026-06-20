@@ -42,6 +42,7 @@ tools:
 - name: hicexplorer_chicqualitycontrol
   owner: bgruening
   revisions:
+  - 853c072bbb11
   - 9ea228a9afc8
   - a63e9713c39d
   - b892fa1fcaec
@@ -160,6 +161,7 @@ tools:
   owner: bgruening
   revisions:
   - 0410b6aada45
+  - 18bf75bf5d67
   - 4375e25de06a
   - bf9379529c3e
   - ffc33339cd3e
@@ -344,6 +346,7 @@ tools:
   revisions:
   - 1de2276f633f
   - 27fe5cd1729c
+  - a4b4bb07ed14
   - df64cc4dfb4d
   - f36828ebdc54
   tool_panel_section_id: hicexplorer
