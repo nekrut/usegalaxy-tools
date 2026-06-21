@@ -171,6 +171,7 @@ tools:
   - 2af7c5086a96
   - 2bfd55b87af3
   - 72979cac22b2
+  - 8efd06e9899d
   - c92d0f9338c5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -306,6 +307,7 @@ tools:
   - 16a1c3122996
   - 5a5468c0d26f
   - 62acdd96d4a0
+  - 7f478b3258ec
   - a8f865950ac4
   - aa0c474463c2
   tool_panel_section_id: single_cell
