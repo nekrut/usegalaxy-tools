@@ -215,6 +215,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 4aa3666b66fa
   - 6d23883e0b94
   - 73d2ef652879
   - 80852884053f
@@ -231,6 +232,7 @@ tools:
   revisions:
   - 0f460421b212
   - 1fe020b2108f
+  - 6cf2a66c46f1
   - 7068b5fcd623
   - 7c2e71e4acf3
   - 86c5b627ddb6
@@ -375,6 +377,7 @@ tools:
   - 826c3e68e7a9
   - a5c2ce4ea328
   - add3c3a7c2b4
+  - dde13d557dc4
   - eb9da067ab26
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -477,6 +480,7 @@ tools:
   - ce2fd1edbc6e
   - e10ffa9e0b90
   - e8639f65c883
+  - e8e5736b632d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_fitted_model_eval
@@ -549,6 +553,7 @@ tools:
   - c716b8c86c5d
   - caf164dd0e18
   - f06ad033c114
+  - fbf485fc2d30
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_train_and_eval
@@ -556,6 +561,7 @@ tools:
   revisions:
   - 0af678661e20
   - 2af1346e68c9
+  - 31f6bf2382dc
   - 470aed90aa41
   - 818f9b69d8a0
   - aeee74692508
