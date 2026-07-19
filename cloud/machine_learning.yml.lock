@@ -17,6 +17,7 @@ tools:
   - 25ab6b4e376e
   - 69c44aab684e
   - 7626ea9c2e1b
+  - f484f41ea0dd
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: plotly_parallel_coordinates_plot
@@ -71,6 +72,7 @@ tools:
   owner: goeckslab
   revisions:
   - 36c5fcc49286
+  - 779d91d78ecf
   - b7ed0e483e4d
   - d13ba033cb84
   - ec4b9244f930
