@@ -165,6 +165,7 @@ tools:
   owner: iuc
   revisions:
   - 21bf2f07f3f3
+  - 775131a4d84b
   - 8dfc90f35aba
   - acd9fe45eb81
   tool_panel_section_id: metagenomic_analysis
@@ -172,6 +173,7 @@ tools:
 - name: cat_prepare
   owner: iuc
   revisions:
+  - 1ab4a7c40daa
   - 51906c8c692a
   - 8315b5cebb82
   - a40bbd70b8b1
@@ -180,6 +182,7 @@ tools:
 - name: cat_contigs
   owner: iuc
   revisions:
+  - 1254b1db9afc
   - 7aebc0137f20
   - c6c77d840993
   - f41dbb0b9ff8
@@ -298,6 +301,7 @@ tools:
   revisions:
   - 04c15826a0b8
   - 0776d824d896
+  - 1fb4fc5e64d6
   - 39638e0aff59
   - 5fe3edf19b9c
   - 75403243703a
@@ -469,6 +473,7 @@ tools:
 - name: staramr
   owner: nml
   revisions:
+  - 15a4fff208e4
   - 2fd4d4c9c5c2
   - 3548a93b39c1
   - 3b22de20bd4b
@@ -505,6 +510,7 @@ tools:
   revisions:
   - 95bf7479d53c
   - a00df747f03c
+  - a6fd47ecbff8
   - c2803012bbb3
   - fc6c328c292f
   tool_panel_section_id: metagenomic_analysis
@@ -629,6 +635,7 @@ tools:
 - name: recentrifuge
   owner: iuc
   revisions:
+  - 2db2dc0eca8c
   - 591175c0f051
   - 612df2a5054f
   - 613ee22af97c
@@ -926,6 +933,7 @@ tools:
   owner: iuc
   revisions:
   - 76b57044069d
+  - 8165eab19456
   - d730086e1432
   - f54e7b3da33c
   tool_panel_section_id: metagenomic_analysis
