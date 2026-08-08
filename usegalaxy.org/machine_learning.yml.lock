@@ -215,6 +215,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 4aa3666b66fa
   - 6d23883e0b94
   - 73d2ef652879
   - 80852884053f
@@ -381,6 +382,7 @@ tools:
 - name: sklearn_clf_metrics
   owner: bgruening
   revisions:
+  - 048d7bd59326
   - 0ee984c1cbd6
   - 15bcf1a7543b
   - 55703205546f
@@ -506,6 +508,7 @@ tools:
   - 6b59e9b96071
   - a4f18bbb4eca
   - caeb57858702
+  - f86c0419af43
   - f93f0cdbaf18
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
