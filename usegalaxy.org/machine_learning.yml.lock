@@ -351,6 +351,7 @@ tools:
   - 4483b84310ec
   - 5276bdb49315
   - 5773e98921fc
+  - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 96bb4c49e30e
@@ -375,6 +376,7 @@ tools:
   - 826c3e68e7a9
   - a5c2ce4ea328
   - add3c3a7c2b4
+  - dde13d557dc4
   - eb9da067ab26
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -454,6 +456,7 @@ tools:
   - 4cea939d7b31
   - 734c66aa945a
   - 8e447b95e6a8
+  - a293d7937700
   - adb084b901cc
   - f0ede473a7e8
   - fb17e19b62a4
@@ -477,6 +480,7 @@ tools:
   - ce2fd1edbc6e
   - e10ffa9e0b90
   - e8639f65c883
+  - e8e5736b632d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_fitted_model_eval
