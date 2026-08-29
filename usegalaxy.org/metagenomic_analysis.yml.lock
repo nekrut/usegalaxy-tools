@@ -26,6 +26,7 @@ tools:
   - 60f307965815
   - 62c9df8382c2
   - 64be1ac21109
+  - 8a203e727140
   - 8b8a3f793f0f
   - 9553180705b7
   - a02aa0dfb850
@@ -112,6 +113,7 @@ tools:
   - 6ef0b5664c69
   - a3b86937ead6
   - ab9350a8ab4d
+  - afa26d1f6809
   - dad9da48a09a
   - e3cbd2287f63
   tool_panel_section_id: metagenomic_analysis
@@ -126,6 +128,7 @@ tools:
   - 584008e574b2
   - 72ed72122deb
   - a4db66553a61
+  - b3858ab7f598
   - bd46669113b9
   - d4d4e9febf5c
   - e177a8ea0bf1
@@ -180,6 +183,7 @@ tools:
 - name: cat_contigs
   owner: iuc
   revisions:
+  - 1254b1db9afc
   - 7aebc0137f20
   - c6c77d840993
   - f41dbb0b9ff8
@@ -189,6 +193,7 @@ tools:
   owner: iuc
   revisions:
   - 388e6678fa98
+  - 7a53f2e3fb9d
   - 7f1aaa1932d8
   - a8216def322b
   tool_panel_section_id: metagenomic_analysis
@@ -196,6 +201,7 @@ tools:
 - name: cat_bins
   owner: iuc
   revisions:
+  - 0c1d6b4abca0
   - 0e63d03c8790
   - 18676df0cb3a
   - 31853794ace2
@@ -210,6 +216,7 @@ tools:
   - 7b8cb2b02978
   - a58e4a43f49c
   - cae017b76acb
+  - d000854331fe
   - d60df8727f59
   - e7c2674e01fe
   - f947b4bb5107
@@ -228,6 +235,7 @@ tools:
   - 78faebd0879c
   - 806fe614ca46
   - 8daf4564ccda
+  - aae21f831e95
   - ac72310b038a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -245,6 +253,7 @@ tools:
   - 79212a309499
   - 7c2100246a2f
   - 9f306361a58e
+  - e0aea8e800d7
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_removebimeradenovo
@@ -259,6 +268,7 @@ tools:
   - 7136e9ab70db
   - 7f3b59dee073
   - 7f8f0e9fcb37
+  - a6ceb91124fa
   - b6dddf8c2e6f
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
@@ -469,6 +479,7 @@ tools:
 - name: staramr
   owner: nml
   revisions:
+  - 15a4fff208e4
   - 2fd4d4c9c5c2
   - 3548a93b39c1
   - 3b22de20bd4b
@@ -523,6 +534,7 @@ tools:
   revisions:
   - 1a037928504c
   - 1a6cdf55390f
+  - 1f688befbcdf
   - 289b3807e80c
   - 56ff60ec416d
   - 740fd2d16a28
@@ -573,6 +585,7 @@ tools:
   - 22384d3d25f4
   - 23d6489e2604
   - 86dec4abcea8
+  - f4409b2e1501
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_sketch
@@ -732,6 +745,7 @@ tools:
   - 53a019316350
   - 7209f32a9e9d
   - 97b1540b4830
+  - bef32ef81f43
   - c30adf839acd
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -837,6 +851,7 @@ tools:
   - 0f5f7fa9c08f
   - 304ac5b49dea
   - 66acaec9f386
+  - fd8ed3767ebb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_load
@@ -845,6 +860,7 @@ tools:
   - 3481feabc54e
   - 5029fd9d572e
   - 738474880da8
+  - 841c5e03eb05
   - 9b3e1acc3ad0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -865,6 +881,7 @@ tools:
   owner: iuc
   revisions:
   - 4d8bc5dd9e95
+  - 7a5598f973c9
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin
@@ -898,6 +915,7 @@ tools:
   owner: iuc
   revisions:
   - 8b1b09fcd8b7
+  - d87b60b2ed78
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: fasta_to_contig2bin
@@ -919,6 +937,7 @@ tools:
 - name: drep_compare
   owner: iuc
   revisions:
+  - e5dc009367ef
   - f0334664a47b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -926,6 +945,7 @@ tools:
   owner: iuc
   revisions:
   - 76b57044069d
+  - 8165eab19456
   - d730086e1432
   - f54e7b3da33c
   tool_panel_section_id: metagenomic_analysis
@@ -978,6 +998,7 @@ tools:
   revisions:
   - 315c2ed31af1
   - 3a7f73d638ba
+  - 8065e0028a60
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: defense_finder
@@ -1058,5 +1079,6 @@ tools:
   owner: iuc
   revisions:
   - 939f503acbcf
+  - a4933979dd06
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
