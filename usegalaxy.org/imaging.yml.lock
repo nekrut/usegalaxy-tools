@@ -409,6 +409,7 @@ tools:
 - name: imagej2_bunwarpj_compare_elastic_raw
   owner: imgteam
   revisions:
+  - 07f37e516729
   - da91b5eaf92d
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -434,17 +435,20 @@ tools:
   owner: imgteam
   revisions:
   - 69e28b06e027
+  - b63ed4bb2289
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_noise
   owner: imgteam
   revisions:
+  - 2b32aaa9a8b1
   - 73cc4e6a741d
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_find_edges
   owner: imgteam
   revisions:
+  - 59b8bef26edf
   - 633bea9c8ee0
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -518,6 +522,7 @@ tools:
   owner: imgteam
   revisions:
   - bd2aadf0f589
+  - c9e87324073c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_make_binary
@@ -530,17 +535,20 @@ tools:
   owner: imgteam
   revisions:
   - 418b1fa32b83
+  - f4e396f032fc
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_compose_elastic
   owner: imgteam
   revisions:
+  - 71f2b1e4efa4
   - e781a17b3c14
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_adjust_threshold_binary
   owner: imgteam
   revisions:
+  - 1e1715e2b53d
   - 2b007b1e6c1b
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -560,6 +568,7 @@ tools:
   owner: imgteam
   revisions:
   - c4774c1a35ea
+  - c853e60002db
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: iscc_sum
@@ -771,6 +780,7 @@ tools:
   owner: imgteam
   revisions:
   - 390943df8a35
+  - 7191fd16988f
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: crop_image
