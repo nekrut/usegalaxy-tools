@@ -5,6 +5,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 28ffaaa5739f
   - 331a50e8fd2f
   - 545054b15d7c
@@ -36,6 +37,7 @@ tools:
   - 2b676d5eb848
   - 3820e3f3b1cb
   - 71572faf938e
+  - a151d2cf27fb
   - d45a786cbc40
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -54,6 +56,7 @@ tools:
   - 33c0ca93f3ee
   - 8242376d9f35
   - aa252eec9229
+  - ba20f926a460
   - d2b82d89f848
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -80,6 +83,7 @@ tools:
   - 357df6c47d92
   - 3f7790b73906
   - 83c4b4359ac4
+  - a26afcf352fd
   - a6583110825c
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -138,11 +142,13 @@ tools:
   - 4b9ab71be05e
   - 512c2b701d96
   - 75a1b3f7bacc
+  - abc7c44ae8f7
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_export_samplemetadata
   owner: lecorguille
   revisions:
+  - 46f13a609b3e
   - 4ea32e46b2d6
   - 94eb263cfab4
   - cdab04a1d1d7
