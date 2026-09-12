@@ -15,6 +15,7 @@ tools:
   - a48e750cfd25
   - a5404f55ee6a
   - a92f200d296e
+  - baa13bb4cdcc
   - dbf05afb8e6c
   - de753cf07008
   - ed2fefc8d892
@@ -26,6 +27,7 @@ tools:
   - 2c6624cae3c5
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - a2e4242653ec
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
@@ -38,6 +40,7 @@ tools:
   owner: goeckslab
   revisions:
   - 01e7c5481f13
+  - 06ef6f6ebfb1
   - 0afd970bd8ae
   - 11fdac5affb3
   - 15707141e7da
@@ -94,12 +97,14 @@ tools:
   - 980bf31faa05
   - 9991c4ddde14
   - b237f27a8afc
+  - b6c2289292fa
   - ce00f1cccb03
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_config
   owner: bgruening
   revisions:
+  - 00d1889e9ecc
   - 01131463df86
   - 0c933465d70e
   - 2a853a2d2e72
@@ -162,6 +167,7 @@ tools:
   owner: bgruening
   revisions:
   - 1b68acd5ac08
+  - 418cafc53f8e
   - 443471b0a27a
   - 4d1637cac794
   - 77125cbb54ac
@@ -215,6 +221,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 4aa3666b66fa
   - 6d23883e0b94
   - 73d2ef652879
   - 80852884053f
@@ -314,6 +321,7 @@ tools:
 - name: sklearn_numeric_clustering
   owner: bgruening
   revisions:
+  - 1bdac8249aa1
   - 1dd433d2c92c
   - 2d7c60aa6c62
   - 73e7f1c76ece
@@ -375,6 +383,7 @@ tools:
   - 826c3e68e7a9
   - a5c2ce4ea328
   - add3c3a7c2b4
+  - dde13d557dc4
   - eb9da067ab26
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
