@@ -505,6 +505,7 @@ tools:
   revisions:
   - 95bf7479d53c
   - a00df747f03c
+  - a6fd47ecbff8
   - c2803012bbb3
   - fc6c328c292f
   tool_panel_section_id: metagenomic_analysis
@@ -523,6 +524,7 @@ tools:
   revisions:
   - 1a037928504c
   - 1a6cdf55390f
+  - 1f688befbcdf
   - 289b3807e80c
   - 56ff60ec416d
   - 740fd2d16a28
@@ -732,6 +734,7 @@ tools:
   - 53a019316350
   - 7209f32a9e9d
   - 97b1540b4830
+  - bef32ef81f43
   - c30adf839acd
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -885,6 +888,7 @@ tools:
 - name: concoct
   owner: iuc
   revisions:
+  - 396cce609c04
   - eae7ee167917
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -919,6 +923,7 @@ tools:
 - name: drep_compare
   owner: iuc
   revisions:
+  - e5dc009367ef
   - f0334664a47b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -934,6 +939,7 @@ tools:
   owner: iuc
   revisions:
   - 73b667038f46
+  - c91014de79d2
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: coverm_contig
