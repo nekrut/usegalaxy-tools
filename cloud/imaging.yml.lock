@@ -29,6 +29,7 @@ tools:
 - name: bfconvert
   owner: imgteam
   revisions:
+  - f0242f99a175
   - fa8ce46a95bb
   - fcadded98e61
   tool_panel_section_id: imaging
@@ -119,6 +120,7 @@ tools:
 - name: spot_detection_2d
   owner: imgteam
   revisions:
+  - 1a03fcd4fa80
   - 73efacdaf71a
   - d78372040976
   - e8c9e104e109
