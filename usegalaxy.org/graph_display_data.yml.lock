@@ -14,6 +14,7 @@ tools:
   - 6fabdcde0214
   - 8334dc98c48e
   - a536d2736c2d
+  - b93fb28c785b
   - c7655b5a94af
   - c80db5d6fd8c
   - e88c782a127d
@@ -146,6 +147,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -295,6 +297,7 @@ tools:
   - 6c571966cfb9
   - 7c9417381ad5
   - 9ec9c22767c8
+  - cfc412b91a57
   - ff02cf8f66f0
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
