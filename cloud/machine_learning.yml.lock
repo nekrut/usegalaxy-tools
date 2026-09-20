@@ -9,12 +9,14 @@ tools:
   - 1ed23c988ff6
   - 4c4ec859c31a
   - 840f29aad145
+  - dc66f89ba2a2
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_searchcv
   owner: bgruening
   revisions:
   - 25ab6b4e376e
+  - 40ff7c1f393a
   - 69c44aab684e
   - 7626ea9c2e1b
   tool_panel_section_id: machine_learning
@@ -32,6 +34,7 @@ tools:
   - 060ca94ac049
   - 0b98933cf0f7
   - 1a53edc4b438
+  - 2268fa04320d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: plotly_regression_performance_plots
@@ -43,6 +46,7 @@ tools:
 - name: tabular_learner
   owner: goeckslab
   revisions:
+  - 06ef6f6ebfb1
   - 0afd970bd8ae
   - 4bd75b45a7a1
   - ba45bc057d70
@@ -61,6 +65,7 @@ tools:
   - 85e6f4b2ad18
   - 8729f69e9207
   - 9e912fce264c
+  - a2e4242653ec
   - b0d893d04d4c
   - bbf30253c99f
   - c460abae83eb
@@ -71,6 +76,7 @@ tools:
   owner: goeckslab
   revisions:
   - 36c5fcc49286
+  - 779d91d78ecf
   - b7ed0e483e4d
   - d13ba033cb84
   - ec4b9244f930
@@ -80,6 +86,7 @@ tools:
   owner: goeckslab
   revisions:
   - 0ee0bc6736a2
+  - 124eb5e5c5fc
   - 4d0d8859a0f2
   - 78b1e3921576
   - ec99e53e91d6
