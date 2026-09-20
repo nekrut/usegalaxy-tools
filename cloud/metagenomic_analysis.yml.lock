@@ -8,6 +8,7 @@ tools:
   revisions:
   - 304ac5b49dea
   - 66acaec9f386
+  - fd8ed3767ebb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken2
@@ -185,6 +186,7 @@ tools:
 - name: dada2_learnerrors
   owner: iuc
   revisions:
+  - 1fb4fc5e64d6
   - a14a18a47c36
   - dd6572434618
   tool_panel_section_id: metagenomic_analysis
@@ -222,6 +224,7 @@ tools:
   revisions:
   - 213a3fda0b91
   - 390bc2645138
+  - 86d6d6cda803
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_assigntaxonomyaddspecies

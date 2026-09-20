@@ -46,6 +46,7 @@ tools:
 - name: bcftools_query_list_samples
   owner: iuc
   revisions:
+  - 2261ddc23215
   - 2c80b0d6bde0
   - ed4ea9de1791
   - fb631fd605e8
@@ -89,6 +90,7 @@ tools:
   - 0a5dcc9a8ec2
   - 0dbff46d5a1b
   - 43f0efd586c4
+  - cd06642e9c20
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_mendelian
@@ -103,6 +105,7 @@ tools:
   owner: iuc
   revisions:
   - 05f317e50e61
+  - 2844fbbcaa92
   - c3c930926708
   - d40d4bf05718
   tool_panel_section_id: vcf_bcf
@@ -184,6 +187,7 @@ tools:
   revisions:
   - 072f606e2e69
   - 07396b423218
+  - 89be90465e11
   - c277260d3fab
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF

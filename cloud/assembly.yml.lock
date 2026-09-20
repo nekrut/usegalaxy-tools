@@ -61,6 +61,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 434f2a6c3ade
   - f192c2fbe13f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -106,6 +107,7 @@ tools:
 - name: hifiasm
   owner: bgruening
   revisions:
+  - 09cf7b520734
   - 5d365d5cbe9d
   - baf229b1fdfd
   - e5e767089163
@@ -166,6 +168,7 @@ tools:
   owner: iuc
   revisions:
   - 3d1d241ceff2
+  - b507ad3fe6ce
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: shovill

@@ -78,6 +78,7 @@ tools:
 - name: xcms_merge
   owner: lecorguille
   revisions:
+  - 8372531e6c92
   - ae28a753a6f8
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -109,6 +110,7 @@ tools:
 - name: xcms_fillpeaks
   owner: lecorguille
   revisions:
+  - 564d6ab0cf18
   - a8d866a71ba1
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
