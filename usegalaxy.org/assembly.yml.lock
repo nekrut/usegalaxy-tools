@@ -9,6 +9,7 @@ tools:
   - '392811378515'
   - 53dd00a4ab68
   - 54a68f38cf3f
+  - 81bc4c8bcf10
   - 8c2167481e72
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -90,6 +91,7 @@ tools:
   owner: nml
   revisions:
   - 05c394313b1c
+  - 434f2a6c3ade
   - 697c9156dafe
   - 9638ba70882c
   - 99ecfdafc64f
@@ -138,6 +140,7 @@ tools:
   revisions:
   - 48cf45a53456
   - 6357b127161e
+  - 7170a53ee406
   - a9aa4115cb68
   - b65a43f70b99
   - d159735a6a9f
@@ -246,6 +249,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -268,6 +272,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 09cf7b520734
   - 0ee0c3089254
   - 170061c052ad
   - 284a1cb82b61
@@ -362,6 +367,7 @@ tools:
   - 02831bf9e95f
   - 0346286a3b0a
   - 056f86469460
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 79b48f02db49
@@ -471,6 +477,7 @@ tools:
   - 608ea80cccba
   - 7a2b37ae4a50
   - 914533f3507e
+  - b507ad3fe6ce
   - c162f3c43442
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
