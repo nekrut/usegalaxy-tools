@@ -15,6 +15,7 @@ tools:
   - a48e750cfd25
   - a5404f55ee6a
   - a92f200d296e
+  - baa13bb4cdcc
   - dbf05afb8e6c
   - de753cf07008
   - ed2fefc8d892
@@ -26,6 +27,7 @@ tools:
   - 2c6624cae3c5
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - a2e4242653ec
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
@@ -38,6 +40,7 @@ tools:
   owner: goeckslab
   revisions:
   - 01e7c5481f13
+  - 06ef6f6ebfb1
   - 0afd970bd8ae
   - 11fdac5affb3
   - 15707141e7da
@@ -68,6 +71,7 @@ tools:
   - 4a7df9abe4c4
   - 4eca9d109de1
   - 4fee4504646e
+  - 7363de120cc2
   - 7d78a6afc958
   - afd0864d18b6
   - c5c324ac29fc
@@ -86,6 +90,7 @@ tools:
   - 1e088aa741eb
   - 25b46af53232
   - 29e4122c90de
+  - 3dd539570a60
   - 475b5171945f
   - 60c726f5cc5e
   - 65820fb7257b
@@ -101,6 +106,7 @@ tools:
   owner: bgruening
   revisions:
   - 01131463df86
+  - 08b52ffcd2b4
   - 0c933465d70e
   - 2a853a2d2e72
   - 2b8d85927742
@@ -124,6 +130,7 @@ tools:
   - 5b35833076f0
   - 66d7efc06000
   - 772e0e89fc68
+  - 98aeca624881
   - 9b6faa256f15
   - beeeda757eba
   - c51571d0a0b1
@@ -145,12 +152,14 @@ tools:
   - 7f6079deac6f
   - 9d77b259ef27
   - a98b60c639af
+  - ab2372b0d73d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_stacking_ensemble_models
   owner: bgruening
   revisions:
   - 253b3aaf0d91
+  - 9ec25da5ece0
   - ae4b593c99f8
   - b78007bf1cb8
   - b8378d4791b7
@@ -166,6 +175,7 @@ tools:
   - 4d1637cac794
   - 77125cbb54ac
   - 8b822484debc
+  - a0b0f3158c8c
   - adf9f8d5ab9a
   - bde62c243b7e
   - caf7d2b71a48
@@ -190,6 +200,7 @@ tools:
   - c9ddd20d25d0
   - d0352e8b4c10
   - e19359b23e54
+  - fb9782000c55
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_validation
@@ -254,6 +265,7 @@ tools:
   - 36e8d6d5d01b
   - 69c44aab684e
   - 7626ea9c2e1b
+  - 9a01835cdead
   - a36a45cb96fa
   - d37a7f17e35d
   - e5a5ad882f1f
@@ -270,6 +282,7 @@ tools:
   - 4c4ec859c31a
   - 7388ffedf12c
   - 7442b94d6a1e
+  - 78eb20e5bdd3
   - 840f29aad145
   - 9160cb4069c2
   - 97dce66fe158
@@ -297,6 +310,7 @@ tools:
 - name: sklearn_nn_classifier
   owner: bgruening
   revisions:
+  - 0c612f257a48
   - 2c58b83c9bad
   - 309cc7c6af56
   - 39ae3c043096
@@ -487,6 +501,7 @@ tools:
   - 22e73afd5206
   - 4a1cd790e323
   - 61fb99c55558
+  - a9d72bfe33c9
   - bfc44324a773
   - c2a7717d96ce
   - c2e2aa55dd5c
@@ -519,6 +534,7 @@ tools:
   - 5f9c0e99016f
   - 6fabdcde0214
   - 8334dc98c48e
+  - 9276346ed061
   - a536d2736c2d
   - c7655b5a94af
   - c80db5d6fd8c
