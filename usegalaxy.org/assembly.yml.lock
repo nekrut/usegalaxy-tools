@@ -232,6 +232,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 263af8401aed
   - 33368fec3b70
   - 65d1598a9256
   - 7897763d14ec
@@ -658,6 +659,7 @@ tools:
 - name: teloscope
   owner: iuc
   revisions:
+  - 31f96c801f61
   - 321ceb58023e
   - 6c1cfce7c2eb
   tool_panel_section_id: assembly

@@ -196,6 +196,7 @@ tools:
 - name: cat_bins
   owner: iuc
   revisions:
+  - 0c1d6b4abca0
   - 0e63d03c8790
   - 18676df0cb3a
   - 31853794ace2
@@ -210,6 +211,7 @@ tools:
   - 7b8cb2b02978
   - a58e4a43f49c
   - cae017b76acb
+  - d000854331fe
   - d60df8727f59
   - e7c2674e01fe
   - f947b4bb5107
@@ -347,6 +349,7 @@ tools:
   - 390bc2645138
   - 4cc834cce4fb
   - 7d28da5e9e27
+  - 86d6d6cda803
   - 9058d8943303
   - a7817705348e
   - d943081510da
@@ -469,6 +472,7 @@ tools:
 - name: staramr
   owner: nml
   revisions:
+  - 15a4fff208e4
   - 2fd4d4c9c5c2
   - 3548a93b39c1
   - 3b22de20bd4b
@@ -523,6 +527,7 @@ tools:
   revisions:
   - 1a037928504c
   - 1a6cdf55390f
+  - 1f688befbcdf
   - 289b3807e80c
   - 56ff60ec416d
   - 740fd2d16a28
@@ -892,12 +897,14 @@ tools:
   owner: iuc
   revisions:
   - 20ccec4a2c38
+  - 28b4b21d6aae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct_extract_fasta_bins
   owner: iuc
   revisions:
   - 8b1b09fcd8b7
+  - d87b60b2ed78
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: fasta_to_contig2bin
@@ -940,6 +947,7 @@ tools:
   owner: iuc
   revisions:
   - 28d740f2c0b0
+  - 66919d81c4d1
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken_biom

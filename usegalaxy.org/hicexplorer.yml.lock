@@ -7,6 +7,7 @@ tools:
   owner: bgruening
   revisions:
   - 01c37e54e86e
+  - 65fc9fc648f4
   - 952abbc4b1de
   - c3ffb2c1e314
   - fb7068d30ec9
@@ -24,6 +25,7 @@ tools:
 - name: hicexplorer_chicexportdata
   owner: bgruening
   revisions:
+  - 0671a38a29d5
   - 163fd744e235
   - 1a31e75e979e
   - 23b8d6b8960c
@@ -73,6 +75,7 @@ tools:
   - 9d02f1819e81
   - c354255ff705
   - f963c251ac77
+  - fdb67db6d500
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicadjustmatrix
@@ -96,6 +99,7 @@ tools:
 - name: hicexplorer_hicaverageregions
   owner: bgruening
   revisions:
+  - 0ec8d77d1833
   - 3240e8a7c54f
   - 8a11d70b6cd8
   - c72fa6cb8817
@@ -205,6 +209,7 @@ tools:
   owner: bgruening
   revisions:
   - 51e40e9b6c3c
+  - 58293f858e2d
   - 7fbd6feba1ca
   - b0f33533181d
   - e4f8fceab96a
@@ -267,6 +272,7 @@ tools:
 - name: hicexplorer_hicplotaverageregions
   owner: bgruening
   revisions:
+  - 16a8d1688c65
   - 3f1b286a5c34
   - 9b383d429659
   - dd9988943f53
@@ -298,6 +304,7 @@ tools:
   - 337705015ee8
   - b4e780e93c91
   - beb5b5917d2f
+  - ff9f5d335041
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicplotviewpoint
@@ -323,6 +330,7 @@ tools:
   revisions:
   - 1d6af10874d5
   - 36dfa2825a59
+  - 86958f9bec1b
   - d74cf4a61d65
   - f81750434d70
   tool_panel_section_id: hicexplorer
