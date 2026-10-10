@@ -34,6 +34,7 @@ tools:
   - 6bd82ed14acd
   - 6c145a6868cc
   - 9d33775ec67d
+  - a8d291df615d
   - c0a80a16560f
   - c5d3684f7c4c
   - ca086f24422f
@@ -176,6 +177,7 @@ tools:
   revisions:
   - 3d748954434b
   - 43cb7b5a6fe7
+  - 637e50759b72
   - 7e8c677a7b71
   - 8db95f488f0f
   - be1fdce914c6
@@ -561,6 +563,7 @@ tools:
   owner: iuc
   revisions:
   - 29f5f25b9935
+  - 4f1baeda3aca
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: sinto_barcode
@@ -693,6 +696,7 @@ tools:
   owner: iuc
   revisions:
   - 51eb02d9b17a
+  - b70382a113e1
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_create
@@ -716,12 +720,14 @@ tools:
 - name: seurat_plot
   owner: iuc
   revisions:
+  - 83f3879b10e8
   - fee4b4eb0ef5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_preprocessing
   owner: iuc
   revisions:
+  - 5d5fe5659252
   - 6bccf5f85f92
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
