@@ -43,6 +43,7 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
+  - 0abc5513f795
   - 2b3e65a4252f
   - 2e497a770bca
   - 5fab4f81391d
@@ -57,6 +58,7 @@ tools:
   - 3e954e7125bf
   - 85dc96ebc770
   - a5937157062f
+  - c752293b798c
   - e698621cca1f
   - ef2c525bd8cd
   tool_panel_section_id: variant_calling
@@ -161,6 +163,7 @@ tools:
 - name: lofreq_viterbi
   owner: iuc
   revisions:
+  - 3330ebe7c0c7
   - 33a416e1659e
   - aa35ee7f3ab2
   - af7e416d8176
@@ -182,6 +185,7 @@ tools:
   revisions:
   - 36960e552ddc
   - 51d28b4d3a04
+  - 54def72f84b2
   - 71dfde92fd57
   - 7d9166ecd10f
   - 845a7025ba81
@@ -197,6 +201,7 @@ tools:
   - 2e303fcd3b0c
   - 399b40b2bcab
   - 3c6952a2b0e4
+  - 4517996e7c99
   - 48ac4d611e92
   - abd806291372
   - b03c0b3e67a6
@@ -220,6 +225,7 @@ tools:
   - 2898012c5265
   - 3be27a9a7313
   - 53ce8be43212
+  - d90f9190eb27
   - fb0bb7174530
   - fd2d6e035c3f
   tool_panel_section_id: variant_calling
@@ -256,11 +262,13 @@ tools:
   owner: iuc
   revisions:
   - 4e21e4f2bc48
+  - cff5bd9c728d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: snpsift_genesets
   owner: iuc
   revisions:
+  - 60d04e5f3dcf
   - d12a810c837e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -271,6 +279,7 @@ tools:
   - 43fffeed243f
   - 93c4b04a0769
   - ceff2f6a5368
+  - dcd4681273f7
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: jasminesv
