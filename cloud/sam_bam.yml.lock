@@ -33,6 +33,7 @@ tools:
   owner: devteam
   revisions:
   - 2899e5b8c52a
+  - 2b901d1b7aef
   - 30388d878f81
   - 85e38b31e8b3
   - df41198e970c
@@ -98,6 +99,7 @@ tools:
   - 40fa6c240105
   - 56fb540810ce
   - 83b8e36e9cbe
+  - a50321bc1a90
   - b5527cc104ab
   - ef678e1f70a2
   tool_panel_section_id: sam_bam
@@ -105,6 +107,7 @@ tools:
 - name: samtools_fixmate
   owner: iuc
   revisions:
+  - 2f395ebff85f
   - 68a116f469db
   - 84819580b8a5
   - bc0cc7bfbfe9
@@ -199,6 +202,7 @@ tools:
 - name: samtools_sort
   owner: devteam
   revisions:
+  - 2ce517eb9af2
   - 69dca890852c
   - d54a4df48867
   - e613c1ad4c4c
@@ -250,6 +254,7 @@ tools:
   - a4a10c7924d1
   - adc4ed59d82b
   - b8beef827165
+  - c4325d32b1a2
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_rmdup
