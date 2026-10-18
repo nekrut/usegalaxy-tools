@@ -290,6 +290,7 @@ tools:
 - name: scanpy_normalize
   owner: iuc
   revisions:
+  - 2b6498d4c8c6
   - 4766556db52c
   - 4bda4412b8c2
   - 56c0d4acef02
@@ -306,6 +307,7 @@ tools:
   - 16a1c3122996
   - 5a5468c0d26f
   - 62acdd96d4a0
+  - 7f478b3258ec
   - a8f865950ac4
   - aa0c474463c2
   tool_panel_section_id: single_cell
@@ -314,6 +316,7 @@ tools:
   owner: iuc
   revisions:
   - 458d4ab0f894
+  - 80fe16f87825
   - 9fb627495ec2
   - a39040ae0a38
   - be0d45c46e97
