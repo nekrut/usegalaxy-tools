@@ -10,6 +10,7 @@ tools:
   - 1588f9076e32
   - 222c02df5d55
   - 4a229a7ad638
+  - 553b147da4e9
   - 5f9c0e99016f
   - 6fabdcde0214
   - 8334dc98c48e
@@ -75,6 +76,7 @@ tools:
   - 53460afd5115
   - '566197475670'
   - 6a097d09fca3
+  - 94f3fd9ade04
   - ca7cb0eaad62
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -126,6 +128,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 7d01da0b9e18
   - e9005d1f3cfd
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -276,6 +279,7 @@ tools:
   - 03c13085aecc
   - bd99e8fbde97
   - f1691de443a7
+  - fb6d30ca4ea6
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: pe_histogram
@@ -295,6 +299,7 @@ tools:
   - 6c571966cfb9
   - 7c9417381ad5
   - 9ec9c22767c8
+  - da25e82a51a8
   - ff02cf8f66f0
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -326,6 +331,7 @@ tools:
   revisions:
   - 11c344627e52
   - 2f557f6abbfb
+  - 3d5b9e4df7ba
   - 5e08a1e22dbc
   - 73b8cb5bddcd
   - 83c573f2e73c

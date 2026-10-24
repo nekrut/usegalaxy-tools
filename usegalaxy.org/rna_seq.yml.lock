@@ -37,6 +37,7 @@ tools:
   - 26371a1df031
   - 6c19daec423d
   - b12d81af0291
+  - eaa10652acc2
   - f4af63aaf57a
   - fbf98f24097b
   tool_panel_section_id: rna_seq
@@ -86,6 +87,7 @@ tools:
   owner: bgruening
   revisions:
   - 15cd64d7c58b
+  - 29e12b90949d
   - 30d90b851d3c
   - 49121db48873
   - 7fdb9d1591e2
@@ -488,11 +490,13 @@ tools:
   revisions:
   - 05996586c8b3
   - 2b2bfeda00d0
+  - bd21dd94c221
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: chira_extract
   owner: iuc
   revisions:
+  - 44c50b0714d9
   - 73d2b7a8d94b
   - e7ee3aadf1a5
   tool_panel_section_id: rna_seq
@@ -500,6 +504,7 @@ tools:
 - name: chira_map
   owner: iuc
   revisions:
+  - 4ac1b4148127
   - 7925dd016f53
   - 95ddee768b61
   tool_panel_section_id: rna_seq
