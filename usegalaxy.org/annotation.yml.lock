@@ -424,6 +424,7 @@ tools:
   - 52bd683c6d3f
   - 579538ff939d
   - cb0d9eb033ef
+  - ec5826d33185
   - eeb5c054ecf8
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -493,6 +494,7 @@ tools:
   owner: bgruening
   revisions:
   - 1ac12c0cc7a0
+  - 4594ca417b13
   - 7ccc6234b54e
   - 8e9e228c54c4
   tool_panel_section_id: annotation
@@ -534,6 +536,7 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm
@@ -588,6 +591,7 @@ tools:
 - name: agat
   owner: bgruening
   revisions:
+  - 80b0055ba314
   - d6ede73082da
   - e7449b2c14bf
   tool_panel_section_id: annotation
@@ -618,6 +622,7 @@ tools:
   revisions:
   - 59d308975e63
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   - f2625d1efadd
   tool_panel_section_id: annotation
@@ -631,6 +636,7 @@ tools:
 - name: argnorm
   owner: iuc
   revisions:
+  - 9125d3f45f4d
   - d8e95a03321a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -638,6 +644,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: braker3
@@ -673,6 +680,7 @@ tools:
 - name: orthofinder_onlygroups
   owner: iuc
   revisions:
+  - 27dc25864cb7
   - b6ec80429d54
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -685,6 +693,7 @@ tools:
 - name: hmmer_alimask
   owner: iuc
   revisions:
+  - a30ef2a2b3a9
   - e3e5f208e93c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -709,6 +718,7 @@ tools:
 - name: hmmer_hmmemit
   owner: iuc
   revisions:
+  - 82d6ca8212dc
   - be03abdc6451
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
