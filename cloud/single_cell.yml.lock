@@ -64,6 +64,7 @@ tools:
   - 0cb889db0910
   - 707023fa62fe
   - 83609ef746e9
+  - 87d9511249cf
   - 8b9bf8b5157a
   - cfaf5a405371
   - e1c3c2f2a834
@@ -116,6 +117,7 @@ tools:
 - name: dropletutils
   owner: iuc
   revisions:
+  - 10d928447114
   - 2c1200fba922
   - a9caad671439
   tool_panel_section_id: single_cell
@@ -238,6 +240,7 @@ tools:
   owner: iuc
   revisions:
   - 2e41b35b5bdd
+  - 63dc52ce8c73
   - ef4c80837bc5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -306,6 +309,7 @@ tools:
   - 16a1c3122996
   - 5a5468c0d26f
   - 62acdd96d4a0
+  - 7f478b3258ec
   - a8f865950ac4
   - aa0c474463c2
   tool_panel_section_id: single_cell
