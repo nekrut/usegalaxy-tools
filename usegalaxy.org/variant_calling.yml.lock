@@ -57,6 +57,7 @@ tools:
   - 3e954e7125bf
   - 85dc96ebc770
   - a5937157062f
+  - ae2f044f7b1c
   - e698621cca1f
   - ef2c525bd8cd
   tool_panel_section_id: variant_calling
@@ -105,6 +106,7 @@ tools:
   - 32f2211eeec3
   - 3fe8ef358d66
   - 5bbf9eada9c2
+  - c3b0d50d1b53
   - c9a8ef2aa380
   - d220115f882b
   tool_panel_section_id: variant_calling
@@ -115,6 +117,7 @@ tools:
   - 09d6e4693887
   - 2953c43180c0
   - 435b157bed6d
+  - 4e7fc9795034
   - 606542a18f82
   - 791f73caa0c8
   - e0e2fd665102
@@ -138,6 +141,7 @@ tools:
 - name: lofreq_filter
   owner: iuc
   revisions:
+  - 3e0e44d971d5
   - 6f9ffff040ce
   - 701d134358ad
   - 7dfca164d2e3
@@ -149,6 +153,7 @@ tools:
 - name: lofreq_indelqual
   owner: iuc
   revisions:
+  - 07cd2a0e530d
   - 2ae554b4bcca
   - 354b534eeab7
   - 426d707dfc47
@@ -197,6 +202,7 @@ tools:
   - 2e303fcd3b0c
   - 399b40b2bcab
   - 3c6952a2b0e4
+  - 4517996e7c99
   - 48ac4d611e92
   - abd806291372
   - b03c0b3e67a6
