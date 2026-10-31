@@ -290,6 +290,7 @@ tools:
 - name: ucsc_maftoaxt
   owner: iuc
   revisions:
+  - 1acacc1a3d70
   - 3a4256d4f079
   - a6540beef35f
   - bb486fb0103d
