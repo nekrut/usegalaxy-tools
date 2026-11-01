@@ -166,6 +166,7 @@ tools:
   revisions:
   - 37d67c252fed
   - aef1eea2058c
+  - df19b13caeb8
   - f0409baac2cd
   - f109ce5dbfe2
   tool_panel_section_id: fasta_fastq
@@ -189,5 +190,6 @@ tools:
   owner: iuc
   revisions:
   - 1add611a6018
+  - aa95d55b672f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

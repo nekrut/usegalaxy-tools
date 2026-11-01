@@ -9,6 +9,7 @@ tools:
   - 27fff8d3793e
   - 636b049e6141
   - 7cd7a55a678d
+  - a79662294201
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: mummer_mummerplot

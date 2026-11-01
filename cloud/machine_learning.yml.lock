@@ -9,6 +9,7 @@ tools:
   - 1ed23c988ff6
   - 4c4ec859c31a
   - 840f29aad145
+  - bf5b6f5a18ed
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_searchcv
