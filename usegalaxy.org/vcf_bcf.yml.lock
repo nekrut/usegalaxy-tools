@@ -6,6 +6,7 @@ tools:
 - name: vcffilter
   owner: devteam
   revisions:
+  - 1ce46fc2168a
   - 4bdc111b2470
   - 81972652519c
   - fa24bf0598f4
@@ -53,6 +54,7 @@ tools:
   revisions:
   - 17096387c0e6
   - d226a7327946
+  - e87a701d9452
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfleftalign
@@ -60,6 +62,7 @@ tools:
   revisions:
   - 29f9b782727e
   - d2406f98a782
+  - da4f35bd095d
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfhethom
@@ -74,6 +77,7 @@ tools:
   revisions:
   - a60ae8af21a1
   - f5653ed90dfd
+  - fb57e663bc4a
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfgeno2haplo
@@ -433,6 +437,7 @@ tools:
   - 012656fd329f
   - 04aa97fc125c
   - 348cd212dbad
+  - 506cb7ed2a11
   - 7ca6120cb2a4
   - 7cea7c7bf203
   - a20d6492132d
@@ -451,6 +456,7 @@ tools:
   - 92182c270ce4
   - 9a260f6fab93
   - a87ae767b01d
+  - b75e49f360de
   - d3081540d175
   - d6dc477167f8
   - da0bf365652d

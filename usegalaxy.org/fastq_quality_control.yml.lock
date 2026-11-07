@@ -70,6 +70,7 @@ tools:
   revisions:
   - 21796f46e0ba
   - 751878fa37e5
+  - 81718e0eba05
   - ad116ae3f4d9
   - b6b54ba71bd8
   tool_panel_section_id: fastq_quality_control

@@ -318,6 +318,7 @@ tools:
   revisions:
   - 012171ba9fce
   - 42b38f6d9f68
+  - 92390a2cbb12
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: find_nested_alt_orfs
@@ -364,6 +365,7 @@ tools:
   - 1eafcc450052
   - 65c38d020fea
   - eb35257d2e29
+  - f7746d145125
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: clinod
@@ -493,6 +495,7 @@ tools:
   owner: bgruening
   revisions:
   - 1ac12c0cc7a0
+  - 4594ca417b13
   - 7ccc6234b54e
   - 8e9e228c54c4
   tool_panel_section_id: annotation
@@ -528,6 +531,7 @@ tools:
   revisions:
   - 20d725740701
   - 6b20d051d0dc
+  - fb8b3a37ac9c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: amrfinderplus
@@ -576,6 +580,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - c03be23045b7
   - d77802fe76f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -692,6 +697,7 @@ tools:
   owner: iuc
   revisions:
   - 71863d3bf721
+  - e26abfad8ce5
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmbuild
@@ -734,6 +740,7 @@ tools:
   owner: iuc
   revisions:
   - 9fdeca68a6b5
+  - b2f12ceedacf
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_nhmmer

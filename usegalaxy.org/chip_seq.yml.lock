@@ -19,6 +19,7 @@ tools:
 - name: genetrack
   owner: iuc
   revisions:
+  - 363240b62158
   - b41a4bb828a3
   tool_panel_section_id: chip_seq
   tool_panel_section_label: ChIP-seq
