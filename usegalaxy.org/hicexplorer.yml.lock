@@ -205,6 +205,7 @@ tools:
   owner: bgruening
   revisions:
   - 51e40e9b6c3c
+  - 58293f858e2d
   - 7fbd6feba1ca
   - b0f33533181d
   - e4f8fceab96a
@@ -260,6 +261,7 @@ tools:
   revisions:
   - 1da5f169b491
   - 77919cc3618e
+  - b03f8b95b08c
   - c3e5e2cf12b7
   - f86ca478c6af
   tool_panel_section_id: hicexplorer

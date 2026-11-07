@@ -74,6 +74,7 @@ tools:
   - 766d5f63b0f4
   - 8ba2174315aa
   - aec58624706f
+  - d429429e580a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: taxonomy_krona_chart
@@ -290,6 +291,7 @@ tools:
   - 84fd33a60b35
   - 96336c6a2bb7
   - b35a5e8ff0fe
+  - d16fa2560df4
   - f79565b12646
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -422,6 +424,7 @@ tools:
   - 8c6433857aa8
   - 97f65399e30d
   - b86562b4f3fd
+  - d4ae72d26aec
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: khmer_abundance_distribution
@@ -629,6 +632,7 @@ tools:
 - name: recentrifuge
   owner: iuc
   revisions:
+  - 2ef21eba2d01
   - 591175c0f051
   - 612df2a5054f
   - 613ee22af97c
@@ -656,6 +660,7 @@ tools:
 - name: krakentools_beta_diversity
   owner: iuc
   revisions:
+  - 13b4ae988a8e
   - 4505d7643673
   - 5fa703b1f68a
   - c254d75b8b67
@@ -687,6 +692,7 @@ tools:
   - 6a067bbd4e16
   - 87064cb77a52
   - d1c93a32cb25
+  - f09a7ce2f629
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_from_biom
@@ -852,6 +858,7 @@ tools:
   owner: iuc
   revisions:
   - 30e275ed0442
+  - d177e58c5a5e
   - f1d1dafc836d
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -940,6 +947,7 @@ tools:
   owner: iuc
   revisions:
   - 28d740f2c0b0
+  - 66919d81c4d1
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken_biom
@@ -978,6 +986,7 @@ tools:
   revisions:
   - 315c2ed31af1
   - 3a7f73d638ba
+  - f97e21e8704a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: defense_finder

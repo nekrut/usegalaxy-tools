@@ -62,6 +62,7 @@ tools:
   owner: bgruening
   revisions:
   - 4431f39ede55
+  - 88b89b29d871
   - 88ce7fed1488
   - c03c3384cd81
   - d9114ef1c8a5
@@ -121,6 +122,7 @@ tools:
 - name: deeptools_compute_matrix
   owner: bgruening
   revisions:
+  - 1030f37ff2f0
   - 167788df3b46
   - 19bb3e6d9e31
   - 514fa53b5efb

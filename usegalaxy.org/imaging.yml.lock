@@ -118,6 +118,7 @@ tools:
 - name: spot_detection_2d
   owner: imgteam
   revisions:
+  - 1a03fcd4fa80
   - 73efacdaf71a
   - d78372040976
   - e8c9e104e109
@@ -403,6 +404,7 @@ tools:
 - name: imagej2_binary_to_edm
   owner: imgteam
   revisions:
+  - 4ae6e6b0258d
   - 91b8f4730a93
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -451,6 +453,7 @@ tools:
 - name: imagej2_shadows
   owner: imgteam
   revisions:
+  - ec82bbbeb775
   - f7ae316b00e4
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -547,6 +550,7 @@ tools:
 - name: imagej2_math
   owner: imgteam
   revisions:
+  - a2e5c70fdfcc
   - d426c25946d4
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -584,12 +588,14 @@ tools:
   owner: imgteam
   revisions:
   - 5da9fe99cf02
+  - 910718d4ce13
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: highdicom_dicom2tiff
   owner: imgteam
   revisions:
   - 5d840cf51a67
+  - 8f9b3df1c62d
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: clip_image
