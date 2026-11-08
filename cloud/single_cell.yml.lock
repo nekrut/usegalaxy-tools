@@ -141,6 +141,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 22c726451b40
   - 2b0d3e2f402a
   - 41f34e925bd5
   - c7ddb719554d
@@ -177,6 +178,7 @@ tools:
 - name: raceid_inspecttrajectory
   owner: iuc
   revisions:
+  - 42a08854eb66
   - 6e90c8adf84f
   - a6821f856a1e
   - c8434a623268
@@ -238,6 +240,7 @@ tools:
   owner: iuc
   revisions:
   - 2e41b35b5bdd
+  - 63dc52ce8c73
   - ef4c80837bc5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -306,6 +309,7 @@ tools:
   - 16a1c3122996
   - 5a5468c0d26f
   - 62acdd96d4a0
+  - 7f478b3258ec
   - a8f865950ac4
   - aa0c474463c2
   tool_panel_section_id: single_cell
