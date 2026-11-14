@@ -138,6 +138,7 @@ tools:
   - adc4ed59d82b
   - b5c88b7b153e
   - b8beef827165
+  - c4325d32b1a2
   - fea1a167b822
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
@@ -145,6 +146,7 @@ tools:
   owner: devteam
   revisions:
   - 2899e5b8c52a
+  - 2b901d1b7aef
   - 2d7f0d455ad4
   - 30388d878f81
   - 85e38b31e8b3
@@ -212,6 +214,7 @@ tools:
   owner: devteam
   revisions:
   - 04866f817daa
+  - 49be7ffc00e2
   - 4d343c1f606b
   - 887a9bf73d1a
   - 8eb649e67987
