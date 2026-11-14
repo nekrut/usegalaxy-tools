@@ -236,6 +236,7 @@ tools:
   - 41f34e925bd5
   - be4646256624
   - c7ddb719554d
+  - debffa24f4b1
   - f3eb2291da05
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -247,6 +248,7 @@ tools:
   - 6e90c8adf84f
   - a6821f856a1e
   - c8434a623268
+  - fb7906aa5791
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_trajectory
@@ -497,6 +499,7 @@ tools:
   owner: iuc
   revisions:
   - 5c9b16bdbd5e
+  - 9e80ebd12099
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: retrieve_scxa
@@ -692,6 +695,7 @@ tools:
 - name: seurat_clustering
   owner: iuc
   revisions:
+  - 110994732ae2
   - 51eb02d9b17a
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -705,6 +709,7 @@ tools:
   owner: iuc
   revisions:
   - 4ec52a83ec82
+  - bae409fc946d
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_integrate
@@ -716,6 +721,7 @@ tools:
 - name: seurat_plot
   owner: iuc
   revisions:
+  - 98bb79188c3f
   - fee4b4eb0ef5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -723,6 +729,7 @@ tools:
   owner: iuc
   revisions:
   - 6bccf5f85f92
+  - 923f6a60c92e
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_reduce_dimension

@@ -6,6 +6,7 @@ tools:
 - name: bioext_bealign
   owner: iuc
   revisions:
+  - 10f185ef7aee
   - 396cc0c65700
   - 4ad7321205c9
   - 8a7462c0ac14
@@ -49,6 +50,7 @@ tools:
   - 01ac0a5fedc3
   - 1dfc975b48d5
   - 2477830927ec
+  - 2e9f2d3d1b39
   - 3fe632431b68
   - 64f11cf59c6e
   - e188dc7a68e6
@@ -94,6 +96,7 @@ tools:
   - 6da3972210ee
   - a6ea26c1f225
   - b4e6819b25ef
+  - b7c3dcb76c02
   - b7ce99273d62
   - cf1322aeb137
   - d82648ad25a3
@@ -112,6 +115,7 @@ tools:
   - 66367287b4e6
   - 6945cd53bd2d
   - 77b2770508f6
+  - 7a6382582d76
   - 8c6cd2650d1f
   - 92678fcb1a5f
   - b3eab4b67562
@@ -140,6 +144,7 @@ tools:
 - name: bwa_mem2
   owner: iuc
   revisions:
+  - 7febc71de9c3
   - af91699b8d4c
   - b4a22d90cce9
   - bec6ba059ded
@@ -212,6 +217,7 @@ tools:
   - 4cd7884635c2
   - 78c4cef2b5a9
   - 79182c2a8c80
+  - 97c8a5fbcca0
   - a68e128cdb1a
   - aa5586d83ae3
   - d10e7502aba8
@@ -222,6 +228,7 @@ tools:
   owner: iuc
   revisions:
   - 35ea4a8b1ea6
+  - 5211c9527965
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_axtchain
