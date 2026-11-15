@@ -32,12 +32,14 @@ tools:
   - 10d4df6a9d94
   - 47e5dbc3e790
   - e9f8633db0a2
+  - ed6b5c0c1e8d
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_manipulation
   owner: devteam
   revisions:
   - 5b87038565bb
+  - 8a2a1f60d8a9
   - e06d41f3ed3e
   - e30352e889fe
   tool_panel_section_id: fasta_fastq
@@ -112,6 +114,7 @@ tools:
 - name: length_and_gc_content
   owner: iuc
   revisions:
+  - 0e7eadbd461c
   - e3ba567abdf5
   - f088370d2a3c
   tool_panel_section_id: fasta_fastq
