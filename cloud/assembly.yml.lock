@@ -21,6 +21,7 @@ tools:
 - name: miniasm
   owner: iuc
   revisions:
+  - 691bdc4cc8f0
   - 8dee0218ac7d
   - b799a615995d
   tool_panel_section_id: assembly
@@ -55,6 +56,7 @@ tools:
 - name: megahit
   owner: iuc
   revisions:
+  - 9942ffb676fe
   - ab208c87d973
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
