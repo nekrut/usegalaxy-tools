@@ -42,6 +42,7 @@ tools:
   owner: iuc
   revisions:
   - 01a4ebf1f237
+  - 48e98c53e8f9
   - a27654fc4270
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -74,6 +75,7 @@ tools:
   - 547e8d00f11c
   - 61b4cedc8934
   - 73194cdd4f57
+  - cac2c7cba460
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastx_reverse_complement
@@ -158,6 +160,7 @@ tools:
 - name: fastq_paired_end_interlacer
   owner: devteam
   revisions:
+  - 060e4a536555
   - 2ccb8dcabddc
   - 3e396e702cea
   - acb5090e281f
@@ -205,6 +208,7 @@ tools:
   - 35e38452bb3f
   - 397dc333436b
   - 7fafac615aa1
+  - 83936df70226
   - 9bbe5b7ffa12
   - e39cc71d3ed6
   tool_panel_section_id: fasta_fastq

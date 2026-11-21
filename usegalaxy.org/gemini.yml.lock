@@ -13,6 +13,7 @@ tools:
 - name: gemini_inheritance
   owner: iuc
   revisions:
+  - 130ffc73bcb1
   - 18d13111692b
   - 2c68e29c3527
   tool_panel_section_id: gemini
