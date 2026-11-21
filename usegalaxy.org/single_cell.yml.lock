@@ -568,6 +568,7 @@ tools:
   revisions:
   - d0f56ac6bb60
   - d1b34ac42b8f
+  - e188e2c2598b
   - fb61eb03e313
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -723,6 +724,7 @@ tools:
   owner: iuc
   revisions:
   - 6bccf5f85f92
+  - 923f6a60c92e
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_reduce_dimension

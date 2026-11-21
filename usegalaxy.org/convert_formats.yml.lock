@@ -65,6 +65,7 @@ tools:
   revisions:
   - 2dcfbbf9071a
   - 68f57cc8fad0
+  - 6fe60ee81d7a
   - 78fb18899c99
   - b8cdc0507586
   tool_panel_section_id: convert_formats
@@ -163,6 +164,7 @@ tools:
 - name: gtftobed12
   owner: iuc
   revisions:
+  - 33de73363690
   - 57d45064f114
   - 75a14cc16d4d
   - b026dae67fba
@@ -232,6 +234,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 28ffaaa5739f
   - 331a50e8fd2f
   - 3cf310697624

@@ -171,6 +171,7 @@ tools:
   - 10515715c940
   - 15cebddc6dba
   - 1a72f938213e
+  - 28320e68ff9f
   - 3d059e9c2fba
   - a4d83ba2a1bc
   - d3a9e32672ec
@@ -202,6 +203,7 @@ tools:
   - ae344ccf9d62
   - b1268b7544d3
   - fcb6a19960c6
+  - ffcb4db567f9
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: ggplot2_point
