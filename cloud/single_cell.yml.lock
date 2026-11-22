@@ -144,6 +144,7 @@ tools:
   - 2b0d3e2f402a
   - 41f34e925bd5
   - c7ddb719554d
+  - debffa24f4b1
   - f3eb2291da05
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -161,6 +162,7 @@ tools:
   revisions:
   - 0bff0ee0683a
   - 49776718ae90
+  - 713f9dd0f77e
   - a4b734cd253b
   - f911a64454fb
   tool_panel_section_id: single_cell
@@ -170,6 +172,7 @@ tools:
   revisions:
   - 2af7c5086a96
   - 2bfd55b87af3
+  - 51e0736263e4
   - 72979cac22b2
   - c92d0f9338c5
   tool_panel_section_id: single_cell
@@ -181,6 +184,7 @@ tools:
   - a6821f856a1e
   - c8434a623268
   - df8e4e54d367
+  - fb7906aa5791
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: alevin
@@ -189,6 +193,7 @@ tools:
   - 04b494623f8e
   - '528052085629'
   - b0fe3e482cb7
+  - b3aea985597c
   - c9944a2600f1
   - e4c01dcece8b
   tool_panel_section_id: single_cell
@@ -199,6 +204,7 @@ tools:
   - 71ce24befa24
   - 88c07fc4024c
   - a896b8b7d264
+  - afaa62bfdf28
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: slice_image
@@ -212,6 +218,7 @@ tools:
   owner: iuc
   revisions:
   - 8f333f90d8d6
+  - fad352ff02ad
   - fd808de478b1
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -219,6 +226,7 @@ tools:
   owner: iuc
   revisions:
   - 99f912d5af9f
+  - e3a9a42b4605
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scater_filter
@@ -313,6 +321,7 @@ tools:
 - name: scanpy_remove_confounders
   owner: iuc
   revisions:
+  - 1849d1a3b69e
   - 458d4ab0f894
   - 9fb627495ec2
   - a39040ae0a38

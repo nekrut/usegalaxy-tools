@@ -52,6 +52,7 @@ tools:
 - name: fastq_paired_end_deinterlacer
   owner: devteam
   revisions:
+  - 33e27e311d03
   - 523c2aff0376
   - c48cf4699be7
   - f3936d0632cb
@@ -69,6 +70,7 @@ tools:
   owner: iuc
   revisions:
   - 01a4ebf1f237
+  - 48e98c53e8f9
   - a27654fc4270
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -76,6 +78,7 @@ tools:
   owner: bgruening
   revisions:
   - 084bbd8ba7b8
+  - 7462caed7065
   - b94789823aad
   - cd7e644cae1d
   tool_panel_section_id: fasta_fastq
@@ -133,6 +136,7 @@ tools:
   owner: devteam
   revisions:
   - 516b97a23d7e
+  - 59a3ca730b16
   - e773f1eb16cf
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -145,6 +149,7 @@ tools:
 - name: seqtk
   owner: iuc
   revisions:
+  - 61acad608591
   - 8511b6d85fc7
   - a019807f4e67
   tool_panel_section_id: fasta_fastq
@@ -166,6 +171,7 @@ tools:
   revisions:
   - 37d67c252fed
   - aef1eea2058c
+  - df19b13caeb8
   - f0409baac2cd
   - f109ce5dbfe2
   tool_panel_section_id: fasta_fastq
@@ -181,6 +187,7 @@ tools:
   revisions:
   - 0d9d8de82304
   - 0e0b003c711f
+  - b441f51f88b7
   - c669e8550c46
   - d35d114c26a7
   tool_panel_section_id: fasta_fastq
